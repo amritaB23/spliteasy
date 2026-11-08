@@ -2,7 +2,7 @@
 
 **Split shared expenses with friends and settle up with the fewest payments.**
 
-Live demo: _add your Vercel link here_
+Live demo: **https://spliteasy-amritabera.vercel.app**
 
 ## What it does
 
