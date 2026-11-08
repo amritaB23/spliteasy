@@ -26,7 +26,7 @@ export default function GroupsPage() {
       </Box>
 
       <Alert severity="info" variant="outlined">
-        Demo version: your data is saved in this browser only. A Node.js + Express + PostgreSQL backend is in progress.
+        Demo version: your data is saved in this browser only. A Node.js + Express + MySQL backend is in progress.
       </Alert>
 
       <Stack direction="row" justifyContent="space-between" alignItems="center">

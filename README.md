@@ -69,7 +69,7 @@ npm run build      # production build
 ## Roadmap
 
 - [x] v1: React front end, Redux Toolkit state, settle-up algorithm, charts, unit tests
-- [ ] v2: Node.js + Express + PostgreSQL REST API with JWT login (data saved on the server)
+- [ ] v2: Node.js + Express + MySQL REST API with JWT login (data saved on the server)
 - [ ] Unequal splits (exact amounts / percentages)
 - [ ] Playwright end-to-end test and GitHub Actions CI
 
